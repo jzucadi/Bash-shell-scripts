@@ -1,2 +1,1 @@
-# slick
-shell script for wordpress automation
+# shell script for rapid wordpress automation
