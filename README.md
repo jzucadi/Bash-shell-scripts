@@ -1,1 +1,1 @@
-# shell script for rapid wordpress automation
+# shell scripts for automation
